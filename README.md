@@ -1,3 +1,15 @@
-# İsmail Taşdelen | Web Page
+# İsmail Taşdelen | Website Page
 
-## bootstarp-2-ismailtasdelen.com
+## Software languages used :
+
+* Html
+* Php
+* Css
+* Javascript
+
+## Used framework :
+
+* Bootstrap
+
+## Screenshot :
+
